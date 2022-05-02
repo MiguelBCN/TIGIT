@@ -1,7 +1,5 @@
 # tigit-project
 
-El objetivo de nuestra web es establecer una comunidad interactiva y respetuosa para conectar a estudiantes, profesores y profesionales de todos los ámbitos académicos en todo el mundo, para no solo ayudar en temas académicos (aunque sea el objetivo principal), sino también establecer una comunidad donde los usuarios se puedan sentir cómodos. 
-
 ## Project setup
 ```
 npm install
@@ -15,6 +13,11 @@ npm run serve
 ### Compiles and minifies for production
 ```
 npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
 ```
 
 ### Customize configuration
